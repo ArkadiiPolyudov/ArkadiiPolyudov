@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArkadiiPolyudov
-- 👀 I’m interested in devops and backend
-- 🌱 I’m currently learning devops and go
+- 👀 I’m interested in recruiting 
+- 🌱 I’m currently learning sourcing
 - 📫 How to reach me: @arkadiipolyudov (telegram)
 
 <!---
